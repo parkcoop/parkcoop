@@ -1,6 +1,6 @@
 #### Creative Full Stack Web/Mobile developer
 
-Thanks for visiting, please feel free to reach out on my website
+Thanks for visiting, please feel free to reach out via my website
 
 <!--
 **parkcoop/parkcoop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
