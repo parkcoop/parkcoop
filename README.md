@@ -1,4 +1,4 @@
-### Creative Full Stack Web/Mobile developer
+### Creative Full Stack Web/Mobile Developer
 
 Thanks for visiting, please feel free to reach out via my website
 
